@@ -1,4 +1,6 @@
 # DataScience
- This is a data science project. 
+## Data Science small projects 
 
-Edited the read me. 
+I.   Data Cleaning  <br>
+II.  Data Collecting <br>
+III. Probabilistic Distributions
