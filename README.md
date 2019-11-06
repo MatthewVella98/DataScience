@@ -3,4 +3,4 @@
 
 I. Data Cleaning  <br>
 II. Data Collecting <br>
-III.Probabilistic Distributions
+III. Probabilistic Distributions
